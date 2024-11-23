@@ -1,1 +1,9 @@
 @import url(./geral.css);
+
+.main {
+    display: flex;
+}
+
+.main nav a {
+    display: block;
+}
