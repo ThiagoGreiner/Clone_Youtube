@@ -4,7 +4,7 @@
 O clone do YouTube é um projeto desenvolvido com base no design do Figma fornecido pela Dio.
 </p>
 <p align="center">
-Este projeto tem como objetivo colocar em prática e aperfeiçoar as técnicas de flexbox do CSS.
+Este projeto tem como objetivo colocar em prática e aperfeiçoar as técnicas de flexbox e display grid do CSS.
 </p>
 
 <p align="center">
