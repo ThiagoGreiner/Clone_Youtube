@@ -4,6 +4,17 @@
     display: flex;
 }
 
+.main nav {
+    margin: 24px;
+}
+
 .main nav a {
-    display: block;
+    display: flex;
+    padding-top: 22px;
+    color: #000000;
+    align-items: center;
+}
+
+.main nav a img {
+    padding-right: 16px;
 }
