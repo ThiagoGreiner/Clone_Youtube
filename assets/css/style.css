@@ -18,3 +18,8 @@
 .main nav a img {
     padding-right: 16px;
 }
+
+.main main {
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+}
