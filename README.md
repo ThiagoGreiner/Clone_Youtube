@@ -34,4 +34,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 🖥 Protótipo
 
-Você pode visualizar o protótipo web através [DESSE LINK](https://thiagogreiner.github.io/Clone_Youtube/))
+Você pode visualizar o protótipo web através [DESSE LINK](https://thiagogreiner.github.io/Clone_Youtube/)
